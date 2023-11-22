@@ -1,0 +1,14 @@
+Description:
+Develop a basic to-do list program that allows users to add tasks, mark them as completed, and view their tasks. Use vectors to store the tasks.
+
+Features:
+Use vectors to store tasks (strings).
+Implement functions to add tasks, mark tasks as completed, and view the list of tasks.
+Use a menu-driven approach where users can choose different options.
+Include a loop to keep the program running until the user decides to exit.
+Concepts:
+Data types (string, vector)
+Functions
+Loops (for or while loops)
+Conditionals (if statements)
+User input and output
