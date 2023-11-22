@@ -1,0 +1,22 @@
+// // VariableType VariableName;
+
+// // int age
+// // float salary
+// Case sensative
+
+
+// Initializing variable, all three are equivalent
+//  int age=21; c type of initializing variable
+//  int age(21); constructor type of initializing variable
+//  int age {21} list initialization syntax for variable
+
+Global Variables
+
+Global variable are declared outside of functions and are not local. They can be changed from anywhere in the program
+
+
+C++ primitive data types
+
+characters, integer(signed, unsigned), floating point, boolean.
+
+Size and precision is often compiler dependent

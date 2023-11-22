@@ -1,0 +1,19 @@
+vector is a container, object in c++ standard template library
+array that is dynamic and can grow and shrink as our need during runtime.
+very efficient as we can use sort and other methods
+
+
+SYNTAX
+#include<vector>
+#using namespace
+
+vector <char> vowels   // it is a collection of characters
+vector <int> test_scores // it is collection of test scores
+
+
+other way
+
+vector <char> vowels(5) // it is a collection of characters with 5 vowels
+
+remember: vector <double > test_scores (32,80.0) // first is the size of the test scores while second is the first element of test_score
+                                                    remaining are set to 0, automatically

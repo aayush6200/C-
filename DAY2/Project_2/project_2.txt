@@ -1,0 +1,22 @@
+The area A of a rectangle can be calculated by multiplying the length and the width: A = l ×
+w, where l is the length and w is the width. The perimeter P of a rectangle can be calculated with P =
+2(l + w). Write a program that:
+ Defines a variable called length and asks the user for its value.
+ Defines a variable called width and asks the user for its value.
+ Computes the area of the rectangle and stores it in a variable called area.
+ Computes the perimeter of the rectangle and stores it in a variable called perimeter.
+ Prints out he perimeter and area.
+Save your program as problem7.c. You will submit this file on Canvas.
+Below is example output if the user entered 5.5 for the length and 4 for the width. Be sure to follow
+the same format for your output.
+Sample Output:
+Enter the rectangle length: 5.5
+Enter the rectangle width: 4
+The area is: 22.000
+The perimeter is: 19.000
+Submission instructions
+Create a zip file called homework2.zip containing this word document with your written answers and
+your problem5.c, problem6.c, and problem7.c source files. If you do not create this zip file or follow the
+instructions, you will be penalized. If you are unsure of how to create a zip file, contact one of the TAs or
+me. Upload homework2.zip to Canvas. You may upload multiple times, but we will only grade the last
+one you upload. If you have issues uploading the file, contact us.

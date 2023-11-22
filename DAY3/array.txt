@@ -1,0 +1,14 @@
+array is a compound data type that has contiguous memory allocation
+the size of array cannot be changed after its been defined while the program  is running
+individual elements are accessible thorough position/indexing
+all the elements must be of the same type
+
+
+SYNTAX:
+declaring an array:
+    element_type array_name[no of elements]
+    int students_age[10]
+
+initializing an array
+
+int students_age[4]{1,2,3}; remaining will be 0
