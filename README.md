@@ -1,2 +1,2 @@
-# C-
+# C++
 This is my self learning of C++
