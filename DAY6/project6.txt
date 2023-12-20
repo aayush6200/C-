@@ -1,0 +1,42 @@
+Certainly! Here's a document outlining the basic requirements for your bank account project using C++ classes and objects:
+
+**Bank Account Project**
+
+**Objective:**
+Create a simple program to model a bank account using C++ classes and objects. This project will help you practice defining classes, creating objects, and implementing basic operations on those objects.
+
+**Requirements:**
+
+1. **BankAccount Class:**
+   - Create a class named `BankAccount`.
+   - Include private data members for the account holder's name (`accountHolder`) and the account balance (`balance`).
+   - Include a constructor to initialize the `accountHolder` and `balance` when an object is created.
+   - Include member functions for depositing (`deposit`), withdrawing (`withdraw`), and displaying account information (`displayInfo`).
+
+2. **Constructor:**
+   - Implement a constructor for the `BankAccount` class that takes the account holder's name and initial balance as parameters and initializes the corresponding data members.
+
+3. **Deposit Function:**
+   - Implement a `deposit` function that takes an amount as a parameter and adds it to the account balance.
+
+4. **Withdraw Function:**
+   - Implement a `withdraw` function that takes an amount as a parameter and subtracts it from the account balance. 
+     Ensure that the withdrawal does not exceed the current balance.
+
+5. **Display Information Function:**
+   - Implement a `displayInfo` function that displays the account holder's name and current balance.
+
+6. **Main Function:**
+   - In the `main` function, create at least two objects of the `BankAccount` class with different account holders 
+     and initial balances.
+   - Perform the following operations on the created objects:
+     - Display initial account information.
+     - Deposit some amount into each account.
+     - Display updated account information.
+     - Withdraw some amount from each account.
+     - Display final account information.
+
+**Note:**
+Feel free to customize the project based on your preferences. You can add more features, 
+additional member functions, or enhance the user interface as you see fit. 
+The goal is to practice working with classes and objects in C++.

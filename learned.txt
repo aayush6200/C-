@@ -1,0 +1,7 @@
+so what I have learned in cpp
+
+data types: int , char , strings, boolean
+loops: for, while
+conditions: if, else
+arrays
+functions
